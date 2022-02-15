@@ -1,3 +1,3 @@
-#! /opt/anaconda3/bin/python
+#! /usr/opt/anaconda3/bin/python
 print("hello world")
 
