@@ -1,10 +1,10 @@
 #! /usr/bin/python3
 
-import unitest
+import unittest
 
 from prog1 import summation
 
-class TestSum(unitest.TestCase):
+class TestSum(unittest.TestCase):
   def test_list_int(self):
     """
     test case to add 2 numbers
@@ -14,4 +14,4 @@ class TestSum(unitest.TestCase):
     self.assertEqual(result,50)
     
 if __name__=='__main__':
-  unitest.main()
+  unittest.main()
