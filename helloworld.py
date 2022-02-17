@@ -1,4 +1,4 @@
-#! /usr/opt/anaconda3/bin/python
+#! /usr/bin/python
 print("hello world ")
 print("hello world updated")
 
